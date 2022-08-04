@@ -14,11 +14,6 @@
  - [x] 2021-10-03 新增了一些大会PPT,看到觉得不错的PPT就分享出来，跟着大佬学习 
 
 
-
-## 欢迎加个好友
-微信: drunk_kk
-![image](https://github.com/awake1t/HackReport/blob/main/images/WeChat.jpg)
-
 ## 目录
 
 ``` python
